@@ -50,7 +50,7 @@ o : Higher level
 Example Output
 The output will be a grid that looks something like this (showing a few rows of the simulation):
 
-kotlin
+
                                                                     --cc==--  cc==  oo    ==  ==  ==..cc  ==  ==  ..==oo  ..        oo
                                                                                   ..cccc  ..        ==  ..==--cc--==      cccc==----
                                                                             ..                cc==      --    ..==--    ====--cc..--..
