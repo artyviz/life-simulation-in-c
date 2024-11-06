@@ -1,0 +1,11 @@
+﻿  lifesim.cpp
+C:\Users\Farhan\Desktop\life sim\lifesim\lifesim\lifesim.cpp(26,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Farhan\Desktop\life sim\lifesim\lifesim\lifesim.cpp(27,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Farhan\Desktop\life sim\lifesim\lifesim\lifesim.cpp(28,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Farhan\Desktop\life sim\lifesim\lifesim\lifesim.cpp(29,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Farhan\Desktop\life sim\lifesim\lifesim\lifesim.cpp(31,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Farhan\Desktop\life sim\lifesim\lifesim\lifesim.cpp(32,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Farhan\Desktop\life sim\lifesim\lifesim\lifesim.cpp(125,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Farhan\Desktop\life sim\lifesim\lifesim\lifesim.cpp(126,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Farhan\Desktop\life sim\lifesim\lifesim\lifesim.cpp(172,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lifesim.vcxproj -> C:\Users\Farhan\Desktop\life sim\lifesim\x64\Debug\lifesim.exe
