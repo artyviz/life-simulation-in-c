@@ -87,7 +87,7 @@ The output will be a grid that looks something like this (showing a few rows of 
 
 
 
-and 
+and also
 
 
                                                                     ..      ..    --                ..              --            --
